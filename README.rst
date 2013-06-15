@@ -2,6 +2,8 @@
 django SHOP
 ===========
 
+TEST TEST TEST
+
 This repository hosts the django SHOP code and documentation.
 
 Django SHOP aims to be the easy, fun and fast shop counterpart to django CMS.
